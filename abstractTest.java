@@ -1,5 +1,9 @@
-]// Abstract class
+//infact have forgoten what i was  told to do  with this code
+// Abstract class
 abstract class Animal {
+  Animal(){
+    
+  }
   
 }
 //--------------------------------------------------
@@ -25,3 +29,4 @@ class abstractTest {
     
   }
 }
+//have fail to run it
